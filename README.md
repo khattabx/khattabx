@@ -50,13 +50,7 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/ahvvad/ahvvad/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31d3bosteoxwuybn7jsyvngzpqxe&unique">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d3bosteoxwuybn7jsyvngzpqxe&unique&count=1&unique=false" alt="Spotify recently played"  />
   </a>
