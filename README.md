@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ahmed Yasser <br> and I'm a AI Student @ KFUS</h2>
+<h2 align="center">Hi 👋! My name is Ahmed Yasser <br> and I'm a AI Student @ KFSU</h2>
 
 ###
 
