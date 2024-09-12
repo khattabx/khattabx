@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/ahvvad_" target="_blank">
+  <a href="https://www.instagram.com/userahvad" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="37" alt="instagram logo"  />
   </a>
   <a href="https://t.me/ahvvvad" target="_blank">
