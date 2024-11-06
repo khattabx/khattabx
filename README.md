@@ -3,9 +3,16 @@
 ###
 
 <div align="center">
+  <img height="50%" width="50%" src=".github/images/pic.gif" />
+</div>
+
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahvvad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ahvvad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahvvad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahvvad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -50,7 +57,16 @@
   <a href="https://www.linkedin.com/in/ahmed-yasser-k" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="37" alt="linkedin logo"  />
   </a>
+  <a href="https://linktr.ee/userahmed" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree logo"  />
+  </a>
 </div>
+
+###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahvvad&radius=8&theme=nord&area=true&order=5&hide_border=true&hide_title=true" height="80%" width="80%"alt="activity-graph graph"  />
+</div>
+
 
 ###
 
