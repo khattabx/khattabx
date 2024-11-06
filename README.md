@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ahmed Yasser <br> and I'm a AI Student @ KFSU <br> And Problem-solver With a Passion For Mobile Apps Developing & Data Science. </h2>
+<h2 align="center">Hi 👋! My name is Ahmed Yasser <br> and I'm a AI Student @ KFSU </h2>
 
 ###
 <div align="center">
