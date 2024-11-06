@@ -1,12 +1,11 @@
 <h2 align="center">Hi 👋! My name is Ahmed Yasser</h2>
 
 ###
+<h3 align="center">I'm an AI Studen @ KFSU  <br> IEEE Member And Problem-solver With a Passion For Mobile Apps Developing & Data Science.</h3>
 
 <div align="center">
   <img height="300" width="80%" src="images/pic.gif"  />
 </div>
-
-<h4 align="center">I'm an AI Studen @ KFSU, IEEE Member And Problem-solver <br> With a Passion For Mobile Apps Developing & Data Science.</h4>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahvvad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
