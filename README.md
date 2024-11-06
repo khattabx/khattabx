@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="50%" width="50%" src=".github/images/pic.gif" />
+  <img height="50%" width="50%" src="images/pic.gif" />
 </div>
 
 
