@@ -7,7 +7,7 @@
 </div>
 
 ### 
-#### I'm an AI Studen @ KFSU, IEEE Member And Problem-solver With a Passion For Mobile Apps Developing & Data Science.
+<h4 align="center">I'm an AI Studen @ KFSU, IEEE Member And Problem-solver With a Passion For Mobile Apps Developing & Data Science.</h4>
 ###
 
 <div align="center">
