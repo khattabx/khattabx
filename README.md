@@ -1,8 +1,6 @@
-<h2 align="center">Hi 👋! My name is Ahmed Yasser</h2>
+<h2 align="center">Hi 👋! My name is Ahmed Yasser <br> and I'm a AI Student @ KFSU <br> IEEE Member And Problem-solver With a Passion For Mobile Apps Developing & Data Science. </h2>
 
 ###
-<h3 align="center">I'm an AI Studen @ KFSU  <br> IEEE Member And Problem-solver With a Passion For Mobile Apps Developing & Data Science.</h3>
-
 <div align="center">
   <img height="300" width="80%" src="images/pic.gif"  />
 </div>
