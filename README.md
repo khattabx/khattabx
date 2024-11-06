@@ -62,12 +62,6 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahvvad&radius=8&theme=nord&area=true&order=5&hide_border=true&hide_title=true" height="80%" width="80%"alt="activity-graph graph"  />
-</div>
-
-
-###
 
 <br clear="both">
 
