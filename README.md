@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="50%" width="50%" src="images/pic.gif" />
+  <img height="50%" width="50%" src="https://github.com/user-attachments/assets/69de04c5-5df5-4181-ae62-f4330abf3373" />
 </div>
 
 
@@ -74,6 +74,4 @@
 
 <img src="https://raw.githubusercontent.com/ahvvad/ahvvad/output/snake.svg" alt="Snake animation" />
 
-
-
-###
+![Trending topics on Tumblr]()
