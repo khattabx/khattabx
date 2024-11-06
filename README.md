@@ -3,9 +3,8 @@
 ###
 
 <div align="center">
-  <img height="50%" width="50%" src="https://github.com/user-attachments/assets/69de04c5-5df5-4181-ae62-f4330abf3373" />
+  <img height="200" src="https://github.com/user-attachments/assets/9f14a871-8edf-4c91-817f-cc861c186931"  />
 </div>
-
 
 ###
 
@@ -74,4 +73,3 @@
 
 <img src="https://raw.githubusercontent.com/ahvvad/ahvvad/output/snake.svg" alt="Snake animation" />
 
-![Trending topics on Tumblr]()
