@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋! My name is Ahmed Yasser <br> and I'm a AI Student @ KFSU</h2>
+<h2 align="center">Hi 👋! My name is Ahmed Yasser</h2>
 
 ###
 
 <div align="center">
-  <img height="60%" width="60%" src="images/pic.gif"  />
+  <img height="200" width="200" src="images/pic.gif"  />
 </div>
 
 ###
