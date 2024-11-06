@@ -6,6 +6,8 @@
   <img height="300" width="80%" src="images/pic.gif"  />
 </div>
 
+### 
+## I'm an AI Studen @ KFSU, IEEE Member And Problem-solver With a Passion For Mobile Apps Developing & Data Science.
 ###
 
 <div align="center">
