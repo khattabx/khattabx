@@ -51,9 +51,8 @@
 
 ###
 <div align="center">
-  <img src="https://profile-views-badge.laobi.icu/badge?page_id=ahvvad.ahvvad&left_color=teal&right_color=teal"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahvvad.ahvvad&left_color=teal&right_color=teal&left_text=profile%20views"  />
 </div>
-
 ###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/ahvvad/ahvvad/output/snake.svg" alt="Snake animation" />
