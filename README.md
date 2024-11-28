@@ -8,7 +8,6 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="20" />
@@ -38,7 +37,6 @@
 </div>
 
 ###
-
 <div align="center">
   <a href="https://www.instagram.com/ahvvad_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="37" alt="instagram logo"  />
@@ -52,13 +50,11 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahvvad.ahvvad&left_color=teal&right_color=teal"  />
 </div>
 
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ahvvad/ahvvad/output/snake.svg" alt="Snake animation" />
