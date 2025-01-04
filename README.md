@@ -1,17 +1,12 @@
-<h3 align="center">
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<img src="./images/batman.jpg" alt="Batman">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20i'm%20Ahmed%20Yasser;Mobile%20Apps%20Developer&font=Fira%20Code&center=true&width=540&height=60&color=00ff00&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Ahmed%20Yasser;Mobile%20Apps%20Developer&font=Fira%20Code&center=true&width=540&height=60&color=00ff00&vCenter=true&size=22"></a>
 </p> 
 
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahvvad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ahvvad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahvvad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahvvad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150"alt="languages graph"  />
 </div>
 
 ###
@@ -64,4 +59,6 @@
 ###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/ahvvad/ahvvad/output/snake.svg" alt="Snake animation" />
+
+
 
