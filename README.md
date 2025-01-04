@@ -46,7 +46,7 @@
   <a href="https://t.me/ahvvvad" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="49" height="37" alt="telegram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-yasser-k" target="_blank">
+  <a href="www.linkedin.com/in/ahvvad" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="37" alt="linkedin logo"  />
   </a>
 </div>
