@@ -1,7 +1,7 @@
 <img src="./images/batman.jpg" alt="Batman">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=IF%20The%20App%20Fails%10.%10.%10.;It's%20Because%20I%20Wasn’t%20There%20To%20Debug%20It.&font=Fira%20Code&center=true&width=540&height=60&color=00ff00&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=IF%20The%20App%20Fails%20.%20.%20.;It's%20Because%20I%20Wasn’t%20There%20To%20Debug%20It.&font=Fira%20Code&center=true&width=540&height=60&color=00ff00&vCenter=true&size=22"></a>
 </p> 
 
 <div align="center">
