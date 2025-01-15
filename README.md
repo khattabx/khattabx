@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=IF%20The%20App%20Fails...;It's%20Cuz%20I%20Wasn’t%20There%20To%20Debug%20It.&font=Fira%20Code&center=true&width=540&height=60&color=4CB3DF&vCenter=true&size=22"></a>
 </p> 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahvvad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahvvad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150"alt="languages graph"  />
