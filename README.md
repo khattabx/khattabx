@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yasser</h1>
 
-### **Leadership & Volunteering**
+### 🚀 **Technical Expertise**
+- **Framework:**
+  `Flutter` `BloC` `GetX` `Clean Architecture` `MVVM` `Firebase` `Firestore` `Social Auth` `Dio` `Responsive UI` `CI/CD (Fastlane, GitHub)`
+- **Software Development:**
+  `Dart` `Python` `C++` `OOP` `DS` `SOLID` `RESTful APIs`
+
+### 🌟 **Leadership & Volunteering**  
 
 **IEEE Kafrelsheikh Student Branch** | Autumn 2024 – Present
 
@@ -12,13 +18,13 @@
 
 ---
 
-### **Education & Certifications**
+### 📚 **Education & Certifications**  
 
 - **B.Sc. in Artificial Intelligence** | Kafrelsheikh University | _2023–2027_
 
 ---
 
-### **Let’s Connect**
+### 📱 **Let’s Connect**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahvvad" target="_blank">
@@ -37,7 +43,7 @@
 
 ---
 
-### **GitHub Activity**
+### 📊 **GitHub Activity**  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahvvad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
