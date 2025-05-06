@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yasser</h1>
 
 ### 🚀 **Technical Expertise**
-- **Framework:**
+
+- **Framework**:  
   `Flutter` `BloC` `GetX` `Clean Architecture` `MVVM` `Firebase` `Firestore` `Social Auth` `Dio` `Responsive UI` `CI/CD (Fastlane, GitHub)`
-- **Software Development:**
+
+- **Software Development**:  
   `Dart` `Python` `C++` `OOP` `DS` `SOLID` `RESTful APIs`
+
 
 ### 🌟 **Leadership & Volunteering**  
 
