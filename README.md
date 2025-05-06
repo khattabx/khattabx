@@ -1,4 +1,25 @@
+<h1 align="center">Hi 👋, I'm Ahmed Yasser</h1>
+
+### **Leadership & Volunteering**
+
+**IEEE Kafrelsheikh Student Branch** | Autumn 2024 – Present
+
+- **As a Head Mobile App committee:** Led a team of **10+ participants**, collaborated on a variety of exciting mobile app projects, tackled numerous challenges, and provided valuable educational content to help members grow and effectively solve technical problems.
+
+
+
+- **As a Mobile App developer:** Enhanced communication skills, collaborated on projects, and solved complex programming challenges with peers to improve engagement and promote IEEE.
+
+---
+
+### **Education & Certifications**
+
+- **B.Sc. in Artificial Intelligence** | Kafrelsheikh University | _2023–2027_
+
+---
+
 ### **Let’s Connect**
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ahvvad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Expertise-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -15,6 +36,8 @@
 </p>
 
 ---
+
+### **GitHub Activity**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahvvad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
