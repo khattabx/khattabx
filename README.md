@@ -53,7 +53,6 @@ s<h1 align="center">Hi 👋, I'm Ahmed Yasser</h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahvvad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 
 <picture>
@@ -61,6 +60,3 @@ s<h1 align="center">Hi 👋, I'm Ahmed Yasser</h1>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahvvad/ahvvad/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahvvad/ahvvad/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
