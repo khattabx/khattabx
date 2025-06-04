@@ -30,7 +30,7 @@
 ### 📱 **Let’s Connect**
 
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/khattabx/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Expertise-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/i.khattab_" target="_blank">
