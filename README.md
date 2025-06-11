@@ -5,10 +5,10 @@
 
 ### 🚀 **Technical Expertise**
 
-- **Framework**:  
+> - **Framework**:  
   `Flutter` `BloC` `GetX` `Clean Architecture` `MVVM` `Firebase Services` `RESTful APIs` `Dio` `Responsive UI` `CI/CD (Fastlane, GitHub)`
 
-- **Software Development**:  
+> - **Software Development**:  
   `Dart` `Python` `C++` `OOP` `DS` `SOLID`
 
 ### 🌟 **Leadership & Volunteering**
