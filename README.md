@@ -33,11 +33,11 @@
   <a href="https://www.linkedin.com/in/khattabx/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Expertise-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/i.khattab_" target="_blank">
+  <a href="https://www.instagram.com/khattabx_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Explore-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
   </a>
   <a href="https://discord.gg/i.khattab" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-i.khattab-5865F2?style=for-the-badge&logo=discord" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-khattabx-5865F2?style=for-the-badge&logo=discord" alt="Discord"/>
   </a>
   <a href="mailto:ahvadd.k@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
