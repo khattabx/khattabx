@@ -3,18 +3,26 @@
 
 ---
 
-### **Technical Expertise**
-
-- **Data Engineering**:  
-  `Python` `SQL` `DWH` `Spark`
+### 💻 **Technical Expertise**
 
 - **Big Data Tools**:  
   `HDFS` `MapReduce` `YARN` `Hive` `HBase` `Kafka` `Flume` `Zookeeper` `Flink` 
 
+- **Data Engineering**:  
+  `Python` `SQL` `DWH` `Spark`
+
 - **Coding**:  
   `C++` `Python` `OOP` `DS` 
 
-### **Leadership & Volunteering**
+---
+### 💼 **Experience**
+
+- **Data Analytics & Big Data**  
+During my Data Analytics internship at **Elevvo** Pathways, I worked on real projects where I handled data cleaning, analysis, and visualization using Excel, Python, Power BI, and SQL. I learned how to prepare and explore data, build dashboards, and find useful insights from raw datasets. Later, as a **Big Data Intern** at the **National Telecommunication Institute** *(NTI)*, I gained practical experience with big data tools like HDFS, Spark, Hive, and Kafka, learning how large-scale data systems work and how to process and analyze data efficiently in distributed environments.
+
+---
+
+### 🌍 **Leadership & Volunteering**
 
 **IEEE Kafrelsheikh Student Branch** | Autumn 2024 – Summer 2025
 
@@ -24,13 +32,13 @@
 
 ---
 
-### **Education & Certifications**
+### 🎓 **Education**
 
 - **B.Sc. in Artificial Intelligence** | Kafrelsheikh University | _2023–2027_
 
 ---
 
-### **Let’s Connect**
+### 🔗 **Let’s Connect**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khattabx/" target="_blank">
