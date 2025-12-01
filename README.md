@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yasser</h1>
-<h3 align="center"> Data Engneer | Big Data Analytics | AI & Data Science Student </h3>
+<h3 align="center"> Data Engineer | Big Data Analytics | AI & Data Science Student </h3>
 
 ---
 
